@@ -1,4 +1,5 @@
 > > Data sourcing and preparation < <
+
 Data has been sourced from https://cricsheet.org/downloads/india.zip. This consists of YAML files with ball by ball record for matches.
 Files pertaining to IND-AUS matches have been used. Other files have been removed.
 
@@ -21,6 +22,7 @@ To identify wicket taker, fielders are considered wicket takers in case of catch
 
 
 > > Predictions < <
+
 Based on the above, the predictions are:
 
 Series winner: Australia
