@@ -26,8 +26,13 @@ To identify wicket taker, fielders are considered wicket takers in case of catch
 Based on the above, the predictions are:
 
 Series winner: Australia
+
 Series output: India: 2, Australia: 3
+
 Highest run scorer: Virat Kohli
+
 Higher wicket taker: MS Dhoni
+
 Maximum sixes: Glenn Maxwell
+
 Maximum fours: Virat Kohli
